@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-builder.Services.AddSingleton<IAzureServiceBusClient, AzureServiceBusClient>();
+builder.Services.AddSingleton<IAzureServiceBusPublisherClient, AzureServiceBusPublisherClient>();
 
 builder.Services.AddSingleton<IQueueClient>(x =>
     new QueueClient(

@@ -11,8 +11,8 @@ namespace Microservice_A.Controllers
     public class TestController : ControllerBase
     {
         private readonly IAPIClientFactory<WeatherModel> _clientFactory;
-        private readonly IAzureServiceBusClient _messagePublisher;
-        public TestController(IAPIClientFactory<WeatherModel> clientFactory, IAzureServiceBusClient messagePublisher)
+        private readonly IAzureServiceBusPublisherClient _messagePublisher;
+        public TestController(IAPIClientFactory<WeatherModel> clientFactory, IAzureServiceBusPublisherClient messagePublisher)
         {
             _clientFactory = clientFactory;
             _messagePublisher = messagePublisher;

@@ -14,7 +14,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddHttpClient<IAPIClientFactory<WeatherModel>, APIClientFactory<WeatherModel>>().AddPolicyHandler(GetRetryPolicy()).AddPolicyHandler(GetCircuitBreakerPolicy());
-builder.Services.AddSingleton<IAzureServiceBusClient, AzureServiceBusClient>();
+builder.Services.AddSingleton<IAzureServiceBusPublisherClient, AzureServiceBusPublisherClient>();
 
 // To send messages to ques
 builder.Services.AddSingleton<IQueueClient>(x =>

@@ -9,8 +9,8 @@ namespace Microservice_C
     public class ServiceBusSubscriptionClient : BackgroundService
     {
         private readonly ISubscriptionClient _subscriptionClient;
-        private readonly IAzureServiceBusClient _messagePublisher;
-        public ServiceBusSubscriptionClient(ISubscriptionClient subscriptionClient, IAzureServiceBusClient messagePublisher)
+        private readonly IAzureServiceBusPublisherClient _messagePublisher;
+        public ServiceBusSubscriptionClient(ISubscriptionClient subscriptionClient, IAzureServiceBusPublisherClient messagePublisher)
         {
             _subscriptionClient = subscriptionClient;
             _messagePublisher = messagePublisher;

@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Microservice_A.Services
 {
-    public class AzureServiceBusClient : IAzureServiceBusClient
+    public class AzureServiceBusPublisherClient : IAzureServiceBusPublisherClient
     {
         private readonly IQueueClient _queClient;
         private readonly ITopicClient _topicClient;
-        public AzureServiceBusClient(IQueueClient queueClient, ITopicClient topicClient)
+        public AzureServiceBusPublisherClient(IQueueClient queueClient, ITopicClient topicClient)
         {
             _queClient = queueClient;
             _topicClient = topicClient;

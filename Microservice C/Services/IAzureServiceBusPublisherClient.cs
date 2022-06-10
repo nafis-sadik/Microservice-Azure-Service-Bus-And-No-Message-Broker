@@ -1,6 +1,6 @@
-﻿namespace Microservice_A.Services
+﻿namespace Microservice_C.Services
 {
-    public interface IAzureServiceBusClient
+    public interface IAzureServiceBusPublisherClient
     {
         public Task Request<T>(T obj);
         public Task Request(string raw);
