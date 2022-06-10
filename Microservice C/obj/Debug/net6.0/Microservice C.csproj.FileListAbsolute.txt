@@ -1,0 +1,37 @@
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\appsettings.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microservice C.staticwebassets.runtime.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microservice C.exe
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microservice C.deps.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microservice C.runtimeconfig.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microservice C.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microservice C.pdb
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.csproj.AssemblyReference.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.AssemblyInfoInputs.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.AssemblyInfo.cs
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.csproj.CoreCompileInputs.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.RazorAssemblyInfo.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.RazorAssemblyInfo.cs
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\scopedcss\bundle\Microservice C.styles.css
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\scopedcss\projectbundle\Microservice C.bundle.scp.css
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\refint\Microservice C.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.pdb
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.genruntimeconfig.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\ref\Microservice C.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice C\obj\Debug\net6.0\Microservice C.csproj.CopyComplete

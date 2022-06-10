@@ -1,0 +1,28 @@
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\appsettings.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Microservice B.exe
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Microservice B.deps.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Microservice B.runtimeconfig.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Microservice B.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Microservice B.pdb
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.csproj.AssemblyReference.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.AssemblyInfoInputs.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.AssemblyInfo.cs
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.csproj.CoreCompileInputs.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\scopedcss\bundle\Microservice B.styles.css
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.csproj.CopyComplete
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\refint\Microservice B.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.pdb
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\Microservice B.genruntimeconfig.cache
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\obj\Debug\net6.0\ref\Microservice B.dll
+C:\Users\BS857\source\repos\BS\WebApplication1\Microservice B\Microservice B\bin\Debug\net6.0\Newtonsoft.Json.dll
