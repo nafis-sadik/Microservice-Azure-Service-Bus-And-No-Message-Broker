@@ -16,10 +16,12 @@ namespace Microservice_A.Services
         {
             _subscriptionClient.RegisterMessageHandler((msg, token) =>
             {
-                var recievedObject = JsonConvert.DeserializeObject<WeatherModel>(Encoding.UTF8.GetString(msg.Body));
-
-                Console.WriteLine("Temperature recieved (C) : {0}", recievedObject.temperatureC);
-                Console.WriteLine("Temperature recieved (F) : {0}", recievedObject.temperatureF);
+                WeatherModel? recievedObject = JsonConvert.DeserializeObject<WeatherModel>(Encoding.UTF8.GetString(msg.Body));
+                if (recievedObject != null)
+                {
+                    Console.WriteLine("Temperature recieved (C) : {0}", recievedObject.temperatureC);
+                    Console.WriteLine("Temperature recieved (F) : {0}", recievedObject.temperatureF);
+                }
 
                 return _subscriptionClient.CompleteAsync(msg.SystemProperties.LockToken);
             }, new MessageHandlerOptions(args => Task.CompletedTask)

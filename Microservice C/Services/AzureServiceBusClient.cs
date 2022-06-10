@@ -22,7 +22,7 @@ namespace Microservice_C.Services
         public Task RequestTopic(string raw)
         {
             var msg = new Message(Encoding.UTF8.GetBytes(raw)) { Label = "RadioCom Beta" };
-            msg.UserProperties["RadioMessage"] = "Mystery";
+            msg.UserProperties["radioMessage"] = "mystery";
             return _topicClient.SendAsync(msg);
         }
     }

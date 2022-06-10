@@ -66,8 +66,9 @@ namespace Microservice_A.Controllers
                 temperatureC = 26.7f,
                 temperatureF = 20.06f
             });
-
-            return Ok("Success");
+            if (response.Exception != null)
+                return Conflict(response.Exception.Message);
+            return Ok(response.Status.ToString());
         }
     }
 }
